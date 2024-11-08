@@ -1,0 +1,32 @@
+{
+  "name": "formulario_paciente",
+  "version": "1.0.0",
+  "description": "Projeto de um formulario com o metodo post",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YuriPiloni/Formul-rio.git"
+  },
+  "keywords": [
+    "HTTP",
+    "POST",
+    "Javascript",
+    "Node",
+    "express"
+  ],
+  "author": "Yuri Marques Piloni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YuriPiloni/Formul-rio/issues"
+  },
+  "homepage": "https://github.com/YuriPiloni/Formul-rio#readme",
+  "dependencies": {
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7"
+  }
+}
